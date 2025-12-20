@@ -15,9 +15,9 @@
 
 /* TODO: ลองปรับฟอนต์, สีพื้นหลัง, สีตัวอักษร ให้เข้ากับ Persona */
 body {
-  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
-  background-color: #0f172a;
-  color: #e5e7eb;
+  font-family: 'Inter', system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  background-color: #f8fafc;
+  color: #1e293b;
   line-height: 1.6;
 }
 
