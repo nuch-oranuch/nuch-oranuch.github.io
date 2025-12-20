@@ -12,6 +12,16 @@
   padding: 0;
 }
 
+
+/* แก้ปัญหา Header บังเนื้อหาเวลาคลิกลิงก์ */
+html {
+  scroll-behavior: smooth;
+}
+
+.section {
+  scroll-margin-top: 8rem; 
+}
+
 /* TODO: ลองปรับฟอนต์, สีพื้นหลัง, สีตัวอักษร ให้เข้ากับ Persona */
 body {
   font-family: 'Kanit', 'Inter', system-ui, -apple-system, sans-serif;
@@ -314,4 +324,5 @@ main {
   /* TODO: เลือกว่าจะแสดง/ซ่อน element ใดบนจอเล็ก
      เช่น ถ้าบางตารางอ่านยากบนมือถือ อาจเปลี่ยนเป็น list แทน
   */
+
 }
