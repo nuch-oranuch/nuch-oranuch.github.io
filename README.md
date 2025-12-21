@@ -126,14 +126,17 @@ _เช่น สรุปงานวันนี้ / deadline ที่ใก
 กรอกข้อมูลหลังส่งงาน
 
 - **GitHub Repository:**  
-  https://github.com/_____
+  https://github.com/nuch-oranuch/nuch-oranuch.github.io
 
 - **GitHub Pages URL:**  
-  https://_____.github.io/engce301-week4-ux-responsive/
+  https://nuch-oranuch.github.io/week4/
 
 - **Screenshots:**  
-  - Desktop ✔  
-  - Mobile ✔  
+  - Desktop ✔
+  - <img width="1363" height="640" alt="image" src="https://github.com/user-attachments/assets/911a541b-fbef-44b7-bd53-8e1635255ed0" />
+  - Mobile ✔
+  - <img width="641" height="580" alt="image" src="https://github.com/user-attachments/assets/861cc978-0190-4c26-b45a-1e1dc3735ab3" />
+
 
 ---
 
@@ -141,11 +144,12 @@ _เช่น สรุปงานวันนี้ / deadline ที่ใก
 
 ให้นศ.เลือกตอบ 3–5 ข้อ
 
-- อะไรคือสิ่งที่ยากที่สุดใน LAB นี้?  
-- ฉันเรียนรู้อะไรเกี่ยวกับ UX ที่ไม่เคยคิดมาก่อน?  
-- ส่วนไหนของเว็บที่ฉันภูมิใจที่สุด?  
-- ถ้ามีเวลาเพิ่ม จะปรับปรุงอะไร?  
-- การใช้ Git/GitHub Pages ช่วยพัฒนางานอย่างไร?
+- อะไรคือสิ่งที่ยากที่สุดใน LAB นี้?
+  Ans: การปรับ Responsive หน้าเว็บไซต์ ให้ได้ทั้งขนาด Desktop, IPad และมือถือ
+- ส่วนไหนของเว็บที่ฉันภูมิใจที่สุด?
+  Ans: ส่วนของงานที่ต้องทำ ดูง่ายและสวยงานดี และชอบธีมสีโดยรวมของเว็บไซต์สุดๆ
+- ถ้ามีเวลาเพิ่ม จะปรับปรุงอะไร?
+  Ans: ปรับการแสดงผลให้ดูง่ายกว่านี้ ให้เว็บไม่น่าเบื่อและแก้ไขข้อมูลได้ทุกที่ทุกเวลา
 
 ---
 
