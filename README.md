@@ -136,7 +136,7 @@ _อยากเห็น "งานที่ต้องทำวันนี�
   https://github.com/nuch-oranuch/nuch-oranuch.github.io
 
 - **GitHub Pages URL:**  
-  https://nuch-oranuch.github.io/week4/
+  https://nuch-oranuch.github.io/week-4/
 
 - **Screenshots:**  
   - Desktop ✔
